@@ -1,4 +1,4 @@
 # pragati
 Learning to code
 <br>
-Author - Pragati Agrawal
+Author - Pragati Agrawal Visual Studio
